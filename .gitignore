@@ -153,3 +153,4 @@ cython_debug/
 #.idea/
 Data/Chicago/Crimes_-_2001_to_Present.csv
 Data/.DS_Store
+.DS_Store
