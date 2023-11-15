@@ -4,4 +4,4 @@ This project is about the Chicago Crime Dataset. It has been preprocessed. Explo
 
 [Link to this project's Tableau Dashboard](https://bit.ly/Tableau_Crime)
 
-![Tableau Dashboard Screenshot](https://github.com/whitefreeze/Chicago-Crime-Data/assets/13343127/88fa985c-9d70-40c6-b2f7-dc993728caea)
+![Screenshot 2023-11-14 at 10 53 16 PM](https://github.com/whitefreeze/Chicago-Crime-Data/assets/13343127/c2111d6b-9bfa-4a5d-995b-4df44a9dcf5f)
