@@ -152,6 +152,10 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 Data/Chicago/Crimes_-_2001_to_Present.csv
+Data/Chicago/Crimes_-_2001_to_2023.csv
+Data/Chicago/Crimes_-_2001_to_Present_2023_08_04.csv
+Data/Chicago/Crimes_-_2001_to_Present_2023_EOY.csv
+Data/old_slices
 Data/.DS_Store
 .DS_Store
 Chicago-Crime-Data.code-workspace
