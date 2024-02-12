@@ -151,11 +151,11 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
-Data/Chicago/Crimes_-_2001_to_Present.csv
+Data/Chicago/Crimes_-_2001_to_2023_processed.csv
 Data/Chicago/Crimes_-_2001_to_2023.csv
-Data/Chicago/Crimes_-_2001_to_Present_2023_08_04.csv
-Data/Chicago/Crimes_-_2001_to_Present_2023_EOY.csv
 Data/old_slices
+Data/Chicago/Boundaries-PoliceBeats/.DS_Store
+Data/Chicago/.DS_Store
 Data/.DS_Store
 .DS_Store
 Chicago-Crime-Data.code-workspace
