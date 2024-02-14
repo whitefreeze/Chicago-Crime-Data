@@ -153,6 +153,7 @@ cython_debug/
 #.idea/
 Data/Chicago/Crimes_-_2001_to_2023_processed.csv
 Data/Chicago/Crimes_-_2001_to_2023.csv
+Data/Chicago/Chicago_Crime_export
 Data/old_slices
 Data/Chicago/Boundaries-PoliceBeats/.DS_Store
 Data/Chicago/.DS_Store
